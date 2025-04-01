@@ -13,7 +13,7 @@ A project focused on **bit manipulation in C** (low-level programming), where we
 1️⃣ **Encoding:** The program takes an input image and embeds a hidden message or image within it, modifying the least significant bits (LSBs) of the pixels.  
 2️⃣ **Decoding:** The hidden data is extracted by reading the modified bits and reconstructing the original message or image.  
 
-## 📂 Installation & Usage
+## 📂 How to run
 
 1️⃣ **Clone this repository:**
 ```bash
